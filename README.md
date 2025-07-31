@@ -57,10 +57,9 @@ PathWise simplifies the career discovery journey by asking the user a short set 
 
 ### 📎 Pitch Deck
 
-
 ---
 
 ### 🔗 Links
 
 - 🔗 GitHub Repo: [https://github.com/Noobeypro14/PathWise](https://github.com/Noobeypro14/PathWise)
-- 🌐 Demo Link (if available): *Coming soon / On request*
+- 🌐 Demo Link: *path-wise-six.vercel.app*
