@@ -1,6 +1,6 @@
 # PathWise
 
-PathWise is a dynamic career exploration assistant designed to help individuals—especially students—navigate their career paths with clarity and confidence. Built during a hackathon in less than 48 hours using [Bolt.new](https://bolt.new), PathWise provides an easy-to-use interface for discovering career options tailored to user preferences.
+PathWise is a dynamic career exploration assistant designed to help individuals especially students navigate their career paths with clarity and confidence. Built during a hackathon in less than 48 hours using [Bolt.new](https://bolt.new), PathWise provides an easy-to-use interface for discovering career options tailored to user preferences.
 
 ## 💡 Problem Statement
 
@@ -35,9 +35,10 @@ PathWise simplifies the career discovery journey by asking the user a short set 
 
 ## 🧑‍💻 Team Members
 
-- **Noobeypro14**
-- **Alex**
-- **Ruko**
+- **Adun Emmanuel**
+- **Aniagoh Alexander**
+- **Ejemizu Princewill**
+- **Ogude Henry**
 
 ## 🧠 Learnings
 
