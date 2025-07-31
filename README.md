@@ -1,65 +1,38 @@
 # PathWise
 
-PathWise is a dynamic career exploration assistant designed to help individuals especially students navigate their career paths with clarity and confidence. Built during a hackathon in less than 48 hours using [Bolt.new](https://bolt.new), PathWise provides an easy-to-use interface for discovering career options tailored to user preferences.
+PathWise is an AI-powered career guidance platform designed to help Nigerian students discover career paths that align with their interests, skills, and personal values. Built using the [Bolt](https://bolt.new) no-code platform, PathWise was created during a 48-hour hackathon sprint focused on building scalable, impactful solutions for young people in Africa.
 
-## 💡 Problem Statement
+## 🌍 Why PathWise?
 
-Choosing a career path can be overwhelming, especially for individuals unsure about how their interests align with real-world job options. Generic advice like "just do nursing or engineering" dominates, leaving many young people feeling boxed in and under-informed.
+In Nigeria, many students are pressured into choosing career paths without clarity or personalized guidance. Most rely on generic advice like “go into nursing, engineering, or law,” without deeper alignment to their passions or aptitudes .PathWise guides users through self-discovery by asking structured questions and offering curated insights. It draws inspiration from behavioral psychology and aims to eventually integrate AI-powered recommendations.
 
-## 🧭 What PathWise Does
+## ⚡️ Built With
 
-PathWise simplifies the career discovery journey by asking the user a short set of personalized questions and suggesting suitable fields based on their interests and traits.
+- [Bolt](https://bolt.new) – a visual no-code platform
+- Deployed on [Vercel](https://vercel.com)
+- GitHub for version tracking and collaboration
 
-### Key Features
+## 🎯 Features
 
-- 📋 **Dynamic Form Flow**: Users go through an interactive decision-tree questionnaire to determine compatible fields.
-- 🧠 **Tailored Suggestions**: The app suggests career domains such as UI/UX, cybersecurity, nursing, etc., based on preferences.
-- 💻 **No-Code MVP**: Built entirely with [Bolt.new](https://bolt.new), allowing for rapid development and deployment.
+- Interactive career questionnaire
+- Tailored recommendations for career paths
+- Instant feedback based on user responses
+- Mobile-first responsive design
+- Shareable result summaries
 
-> 🛠️ **Note**: This is a working prototype aimed at demonstrating the *idea and interaction flow*, not full data logic or backend execution.
+## 👥 Team Members
 
-## 🧪 Tech Stack
+- **Adun Emmanuel** – Product Designer, Ideation, Deployment Lead  
+- **Ogude Henry (OG)** – UX Research, Workflow Planning  
+- **Aniagoh Alexander** – Team Support, Content Suggestions  
+- **Ejemizu Pricewill(Ruko)** – QA Testing, Documentation Assistance
 
-| Tool       | Purpose                         |
-|------------|---------------------------------|
-| Bolt.new   | Visual builder for logic & UI   |
-| GitHub     | Version control and submission  |
+## 🛠️ Background
+PathWise was originally developed by two members of our current team (Emmanuel and OG) during a previous student hackathon, where it earned first place. That experience validated the core idea and inspired us to take the project further. 
 
-## 🚀 How to Run
+For this hackathon, we restructured the team and refined the vision to build a more scalable, user-friendly version of PathWise, introducing new features, improved design, and a cleaner architecture.
 
-1. Visit []
-2. Interact with the prototype by answering the questions.
-3. Receive field suggestions based on responses.
 
-> You can also view the screenshots in the `/assets` folder of this repo.
+## 🚀 Live Demo
 
-## 🧑‍💻 Team Members
-
-- **Adun Emmanuel**
-- **Aniagoh Alexander**
-- **Ejemizu Princewill**
-- **Ogude Henry**
-
-## 🧠 Learnings
-
-- Rapid MVP development with Bolt.
-- Importance of user-centered design in career discovery.
-- Team coordination under tight deadlines.
-
-## 🎯 Next Steps
-
-- Add backend to store user responses.
-- Expand database of careers with detailed subfields.
-- Integrate AI or logic engine for smarter recommendations.
-- Support multiple user journeys (e.g., entrepreneurs, artisans).
-
----
-
-### 📎 Pitch Deck
-
----
-
-### 🔗 Links
-
-- 🔗 GitHub Repo: [https://github.com/Noobeypro14/PathWise](https://github.com/Noobeypro14/PathWise)
-- 🌐 Demo Link: *path-wise-six.vercel.app*
+🔗 [View the Live Project on Vercel](https://path-wise-six.vercel.app)
