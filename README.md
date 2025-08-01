@@ -19,6 +19,7 @@ In Nigeria, many students are pressured into choosing career paths without clari
 - Instant feedback based on user responses
 - Mobile-first responsive design
 - Shareable result summaries
+- ATS Compatible CV Generator
 
 ## 👥 Team Name and Members
 **Team Name:** `Team CodeX`
