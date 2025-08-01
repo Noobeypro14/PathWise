@@ -21,7 +21,7 @@ In Nigeria, many students are pressured into choosing career paths without clari
 - Shareable result summaries
 
 ## 👥 Team Name and Members
-Team CodeX
+**Team Name:** `Team CodeX`
 - **Adun Emmanuel** – Product Designer, Ideation, Deployment Lead  
 - **Ogude Henry (OG)** – UX Research, Workflow Planning  
 - **Aniagoh Alexander** – Team Support, Content Suggestions  
